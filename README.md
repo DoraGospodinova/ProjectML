@@ -75,21 +75,21 @@ The models were evaluated using:
 
 Install the required dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 Start Jupyter Notebook:
 
-bash
+```bash
 jupyter notebook
-
+```
 
 Launch the MLflow tracking server:
 
-bash
+```bash
 mlflow ui
-
+```
 
 Open your browser and navigate to:
 
